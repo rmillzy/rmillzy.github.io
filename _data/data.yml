@@ -4,8 +4,8 @@
 
 sidebar:
     position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ryan Mills
@@ -19,7 +19,7 @@ sidebar:
     citizenship: New Zealand
     website: rmillzy.github.io
     linkedin: ryan-mills-18913a1a4
-    github: millzyr (work)
+    github: millzyr
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -46,12 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Economist working in the dairy sector working on environmental and economic modelling and data analysis. Experience in project management; delivering insights to a diverse range of stakeholders including farmers, regional councils, industry organisations and government; as well as providing strategical insights and mentoring colleagues. Eight years of experience working around econometric modelling in both an academic and professional environment.
 education:
     title: Education
     info:
@@ -97,17 +92,25 @@ experiences:
     title: Work Experience
     info:
       - role: Economist
-        time: 2020 - Present
+        time: June 2020 - Present
         company: DairyNZ, Hamilton, New Zealand
         details: |
           Quantitative and Qualitative focused role delivering economic insights to farmers and the industry body. Key contributor to several pieces of work including:
-            - The Economic Farm Survey (2018/19, 2019/20)
-            - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses
             - The Dairy Sector Pathways (DSP) model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
+            - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses.
             - Dairy herd population simulation - A non-normal multivariate (over 140 variables) represenative simulation of New Zealands 10,600 dairy herds.
-          Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts, project management, and mentoring junior colleagues in programming and dairy economics.
+            - Current and forecasted projections of the national dairy herd by breed and age for MPI's Foot and Mouth Disease Submission.
+            - The Economic Farm Survey (2018/19 - 2021/22) Publications.
+            
+          Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts and management of the National Level Solutions project.
+
+          Key competencies include:
+           - Agile deployment of model prototypes and data analysis under time pressure.
+           - Creation of sosphicated modelling tools for use in DairyNZ's policy analysis and scientific research.
+           - Highly capable programmer, mentoring several employees in the use of R programming
+          
       - role: Research Assitant
-        time: 2018 - 2020
+        time: June 2018 - May 2020
         company: University of Auckland, Auckland, New Zealand
         details: |
           Designed statistical code to run empricial analyses for several papers conducted by Dr. Greenaway-McGrevy, including:
@@ -116,18 +119,31 @@ experiences:
             - Nowcasting averaging methods
             - Mortaility and economic activity
             - Time-varying hedonic house pricing
+            
           Role included both designing statistical code from scratch and improving the computational efficiency of existing code. In one instance, code execution time was reduced from a week to within 3 hours. 
           Built code that could be easily modified without the professor having to modify the core framework of the code. Conducted literature reviews on currency market contagion and the relationship between mortality and economic activity. 
+
+          Key competencies included:
+           - Deployment of econometric code designed in both Matlab and Julia programming langauges.
+           - Improving computational efficiency of existing code.
+           - Designing code that was highly reproducible, allowing users to adjust key parameters, data and methods without changing the core framework.
+           
       - role: Research Assistant
         time: July 2017 - October 2017
         company: Auckland University of Technology
         details: |
-          Programmed a discrete demand model using the latest innovations in the field such as the use of first order optimal instruments. 
+          Programmed a discrete demand model on the Soda beverage industry for the USA to analyse the imapct of a sugar tax. The model used the latest innovations in the field such as the use of first order optimal instruments. 
             - Derived a hessian matrix that computationally out-performed the next fastest in the field by a factor of 5 (~ 200 seconds vs 1100 seconds per evaluation)
             - Used optimality conditions to determine convergence to a local minima and multi-start searches build evidence of a global minima
             - Used several derivative and non-derivative methods to further test robustness of the solution
+
+          Key competencies included:
+            - Deploying a discrete demand model using the Berry, Levinsohn and Pakes (BLP) methodology, applying new techniques to improve statistical and computational performance
+            - Cleaned and formatted a large dataset of scanner data by Neilsen of soda beverages.
+            - Using my programming skills to overcome significant computational time barriers, reducing the runtime of the BLP code from multiple days to hours. 
+            
       - role: Senior Team Member
-        time: 2010 - 2020
+        time: March 2010 - May 2020
         company: Warehouse Stationery, Pukekohe
         details: |
           Worked in technology sales, furniture sales and copy centre services. Flexibly moving between them depending on the companies needs. 
@@ -136,6 +152,9 @@ experiences:
           - Capable of providing furniture building services to customers. 
           - From 2015 - 2020, I completed the store's banking, creating floats and reconciling the previous days sales. Created an Excel Spreadsheet to automate over 75% of the process, which is still used in the store. 
 
+         Key competencies included:
+          - Building and maintaining relationships with a dedicated group of customers who would specifically see me for their technology needs.
+          - Administrative tasks such as opening/closing the store, banking, and managing the floor staff on an ad-hoc basis.
 
 certifications:
       title: Certifications
