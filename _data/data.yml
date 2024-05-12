@@ -3,31 +3,23 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ryan Mills
+    tagline: Economist, Programmer, Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: rrmills93@gmail.com
+    phone: available on request
+    timezone: New Zealand Standard Time
+    citizenship: New Zealand
+    website: rmillzy.github.io
+    linkedin: ryan-mills-18913a1a4
+    github: millzyr (work)
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -36,22 +28,19 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Fitness
           link:
 
-        - item: Snowboarding
+        - item: Cricket
           link:
 
-        - item: Cooking
+        - item: Squash
+          link:
+
+        - item: Game development
           link:
 
 career-profile:
@@ -66,110 +55,123 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Mcom in Economics (First class)
+        university: University of Auckland
+        time: 2016 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+          Focus on macro and microeconometrics and microeconomics. Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. Dissertation on the drivers of innovation in developing countries.
+          First in class:
+            - Econ 726: Microeconometrics
+            - Econ 721: Econometrics
+            - Econ 711: Macroeconomics I
+         Average grade of A across all papers.
+      - degree: Bcom in Economics
+        university: University of Auckland
+        time: 2012 - 2015
+        details: |
+          Focus on econometrics, macroeconomics and microecononomics, plus papers on game theory and international economics. Other electives included statistics, commercial law, accounting, business, information systems and population health.
+            - Awarded senior scholar for highest grade point average of graduates in the undergraduate programme.
+            - Added to the Information Systems Honour Roll.
+      - degree: Bsc in Computer Science
+        university: University of Auckland
+        time: 2012 - 2015
+        details: |
+          Focus on software development, computational efficiency, human computer interaction and network theory. Other electives included statistics, mathematics and philosophy. First in class award for Compsci 345: Human Computer Interaction.
+          Distinction awards for:
+            - Compsci 351: Fundamentals of Database Systems
+            - Compsci 335: Distributed Objects and Web services
+            - Stats 125: Probability and its applications
+            - Compsci 111: An introduction to practical programming
+            - Compsci 101: Principals of programming
+      - degree: NCEA Level 1 - 3
+        university: Pukekohe High School
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          NCEA levels 1 - 3 achieved with a merit distinction.
+          - Saxophonist in a multi-award winning Stage Band, multi-award winning Jazz Band, and award winning Concert Band.
+          - Completed Duke of Edinburgh Bronze Award.
+          - Played for Pukekohe in the year 9 - 11 cricket competition and then seniors.
+          - Competed in local squash and tennis competitions.
 
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Economist
+        time: 2020 - Present
+        company: DairyNZ, Hamilton, New Zealand
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Quantitative and Qualitative focused role delivering economic insights to farmers and the industry body. Key contributor to several pieces of work including:
+            - The Economic Farm Survey (2018/19, 2019/20)
+            - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses
+            - The DSP model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
+            - Dairy herd population simulation - A non-normal multivariate (over 140 variables) represenative simulation of New Zealands 10,600 dairy herds.
+        Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts, project management, and mentoring junior colleagues in programming and dairy economics.
+      - role: Research Assitant
+        time: 2018 - 2020
+        company: University of Auckland, Auckland, New Zealand
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Designed statistical code to run empricial analyses for several papers conducted by Dr. Greenaway-McGrevy, including:
+            - Multi-step forecast averaging methods
+            - Asymptotic efficiency in forecast averaging methods
+            - Nowcasting averaging methods
+            - Mortaility and economic activity
+            - Time-varying hedonic house pricing
+          Role included both designing statistical code from scratch and improving the computational efficiency of existing code. In one instance, code execution time was reduced from a week to within 3 hours. 
+          Built code that could be easily modified without the professor having to modify the core framework of the code. Conducted literature reviews on currency market contagion and the relationship between mortality and economic activity. 
+      - role: Research Assistant
+        time: July 2017 - October 2017
+        company: Auckland University of Technology
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Programmed a discrete demand model using the latest innovations in the field such as the use of first order optimal instruments. 
+            - Derived a hessian matrix that computationally out-performed the next fastest in the field by a factor of 5 (~ 200 seconds vs 1100 seconds per evaluation)
+            - Used optimality conditions to determine convergence to a local minima and multi-start searches build evidence of a global minima
+            - Used several derivative and non-derivative methods to further test robustness of the solution
+      - role: Senior Team Member
+        time: 2010 - 2020
+        company: Warehouse Stationery, Pukekohe
+        details: |
+          Worked in technology sales, furniture sales and copy centre services. Flexibly moving between them depending on the companies needs. 
+          - Provided technology support and trouble-shooting
+          - Offered digital document design and editing
+          - Capable of providing furniture building services to customers. 
+          - From 2015 - 2020, I completed the store's banking, creating floats and reconciling the previous days sales. Created an Excel Spreadsheet to automate over 75% of the process, which is still used in the store. 
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Machine Learning
+          start: 2024
+          end:2024
+          organization: Standford
+          credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
+          credentialname: Coursera
+          details: |
+            Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%. Completed in 2019, certificate issued in 2024.    
+        - name: Bayesian Statistics
+          start: 2024
+          end:2024
+          organization: Standford
+          credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
+          credentialname: Coursera
+          details: |
+            Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%. Completed in 2019, certificate issued in 2024.      
+        - name: Getting Started with Amazon Web Services
           start: 2020
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          organization: Amazon Web Services
+          credentialurl: https://coursera.org/verify/7ANMKJTU8GWC
+          credentialname: Coursera
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            Completed a course outlining how to use machine learning tools on Amazon Web Services and the workflow involved when using them. Graded at 100%.
+        - name: Machine Learning
+          start: 2024
+          end:2024
+          organization: Standford
+          credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
+          credentialname: Coursera
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%.
 
 projects:
     title: Projects
