@@ -152,7 +152,7 @@ experiences:
           - Capable of providing furniture building services to customers. 
           - From 2015 - 2020, I completed the store's banking, creating floats and reconciling the previous days sales. Created an Excel Spreadsheet to automate over 75% of the process, which is still used in the store. 
 
-         Key competencies included:
+          Key competencies included:
           - Building and maintaining relationships with a dedicated group of customers who would specifically see me for their technology needs.
           - Administrative tasks such as opening/closing the store, banking, and managing the floor staff on an ad-hoc basis.
 
@@ -176,7 +176,7 @@ certifications:
           details: |
             Completed a course outlining how to use machine learning tools on Amazon Web Services and the workflow involved when using them. Graded at 100%.
 projects:
-    title: Projects
+    title: Projects & Publications
     intro: >
       A set of significant pieces of work that I have either been lead or a primary contributor that can be publicly viewed online:
     assignments:
@@ -188,6 +188,10 @@ projects:
         link: "https://doi.org/10.33584/rps.17.2021.3463"
         tagline: "Regional analysis of the median and frontier (90%) conditional quantiles of pasture and crop eaten on New Zealand dairy farms"
 
+      - title: Inside Dairy, December 2022, *Hold onto your profit*
+        link: "https://www.dairynz.co.nz/media/2sliehd1/inside-dairy-dec-jan-2021-webv2.pdf"
+        tagline: "An article discussing the interaction between milk price and cost reactivity"
+        
       - title: Economic Farm Survey 2021/22
         link: "https://connect.dairynz.co.nz/content/22334e05-52ea-4763-abba-80898ee3017e/"
         tagline: "The seventeenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I redesigned the R programming code to generate LaTeX tables for the PDF document, support in-text tables with significant formatting."
@@ -207,63 +211,45 @@ projects:
 oss:
     title: Open Source Software Contributions
     intro: >
-      
+      Listed are some open source projects that I have available on my GitHub account. Most of the work I complete has data privacy policies that make it unavailable for public release. I will endeavour to make my work publicly available when possible.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SNZ_Land_use_replica_example
+        link: "https://github.com/rmillzy/SNZ_Land_use_replica_example"
+        tagline: "A replication of the Land Use Shiny App on the Statistics New Zealand website. Built as a protoype/tutorial for a colleague building the Econ Tracker shiny app."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Workshop lecture notes on Vectors
+        link: "https://millzyr.github.io/Workshop_9_notes.html"
+        tagline: "Workshop notes for a lesson I ran in the R 4 Data Science lecture run by Dairy NZ & University of Waikato."        
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: GitHub and Data Retrieval Example
+        link: "https://github.com/millzyr/Guided_Project_1"
+        tagline: "An unfinished example of a guided project in R. Covers setting up GitHub and using HTML/CSS tags to automatically retrieve data. Two Youtube videos were relased along side this to guide users for DairyNZ"             
 
 skills:
     title: Skills &amp; Proficiency
-
+    intro: >
+        Listed are some of the programming tools and proficiencies that I have with them.
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Econometrics
+        details: |
+            A proficient understanding of econometrics from my university papers plus my work experience at DairyNZ and as a research assistant.
+                - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
+                - Ability to use statistical software packages including Stata and E-views.
+                - Extensive knowledge of optimisation methods and an ability program mathematical optimisations.
+                - Extensive experience applying both micro and macroeconometric methods.
+      - name: Economics
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
 
-      - name: Angular
-        level: 98%
+      - name: Matlab
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Julia
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C++
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML, CSS & Javascript
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
