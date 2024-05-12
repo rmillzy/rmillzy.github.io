@@ -46,7 +46,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Economist working in the dairy sector working on environmental and economic modelling and data analysis. Experience in project management; delivering insights to a diverse range of stakeholders including farmers, regional councils, industry organisations and government; as well as providing strategical insights and mentoring colleagues. Eight years of experience working around econometric modelling in both an academic and professional environment.
+     As an experienced Economist specializing in the dairy sector, I leverage comprehensive econometric skills to address both environmental and economic challenges through advanced modeling and data analysis. With eight years of service working with academia and in professional environments, I excel in translating and modelling complex, non-normal data into actionable insights for a diverse range of stakeholders—from farmers and industry organizations to regional councils and government bodies.
+     My technical proficiency spans R, Matlab, Julia, Python, Java, and C++, including the development of Shiny apps and robust data visualizations that drive strategic decision-making. Known for my quick adaptation to various programming languages, I bring a unique ability to master new tools swiftly and effectively. I have a strong econometrics background in both microeconometrics and macroeconometrics, but also pride myself to find solutions for challenging solutions that stray outside of standard econometrics. My work at DairyNZ has given me expereince in project management and team collaboration. 
+     I use my work to provide strategic insight to the sector and foster solutions that enhance sustainability and economic viability within the dairy industry. 
 education:
     title: Education
     info:
@@ -54,30 +56,37 @@ education:
         university: University of Auckland
         time: 2016 - 2017
         details: |
-          First class honours. Focus on macro and microeconometrics and microeconomics. Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. Dissertation on the drivers of innovation in developing countries.
+          Studied economics, with a focus on macro and microeconometrics and microeconomics. Awarded with first class honours.
+            - Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. 
+            - Dissertation on the drivers of innovative activity in developing economies.
           First in class:
             - Econ 726: Microeconometrics
             - Econ 721: Econometrics
             - Econ 711: Macroeconomics I
-          Average grade of A across all papers.
+          I receieved an average grade of A across all papers.
+          
       - degree: Bcom in Economics
         university: University of Auckland
         time: 2012 - 2015
         details: |
-          Focus on econometrics, macroeconomics and microecononomics, plus papers on game theory and international economics. Other electives included statistics, commercial law, accounting, business, information systems and population health.
+          Studied economics with a focus on econometrics, macroeconomics and microecononomics, plus papers on game theory and international economics. Other electives included statistics, commercial law, accounting, business, information systems and population health.
+          Accolades and awards include:  
             - Awarded senior scholar for highest grade point average of graduates in the undergraduate programme.
             - Added to the Information Systems Honour Roll.
+        
       - degree: Bsc in Computer Science
         university: University of Auckland
         time: 2012 - 2015
         details: |
-          Focus on software development, computational efficiency, human computer interaction and network theory. Other electives included statistics, mathematics and philosophy. First in class award for Compsci 345: Human Computer Interaction.
+          Focus on software development, computational efficiency, human computer interaction and computer networking. Other electives included statistics, mathematics and philosophy.
           Distinction awards for:
+            - Compsci 345: Human Computer Interaction, first in class
             - Compsci 351: Fundamentals of Database Systems
             - Compsci 335: Distributed Objects and Web services
             - Stats 125: Probability and its applications
             - Compsci 111: An introduction to practical programming
             - Compsci 101: Principals of programming
+            
       - degree: NCEA Level 1 - 3
         university: Pukekohe High School
         time: 2007 - 2011
