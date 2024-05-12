@@ -103,7 +103,7 @@ experiences:
           Quantitative and Qualitative focused role delivering economic insights to farmers and the industry body. Key contributor to several pieces of work including:
             - The Economic Farm Survey (2018/19, 2019/20)
             - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses
-            - The DSP model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
+            - The Dairy Sector Pathways (DSP) model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
             - Dairy herd population simulation - A non-normal multivariate (over 140 variables) represenative simulation of New Zealands 10,600 dairy herds.
         Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts, project management, and mentoring junior colleagues in programming and dairy economics.
       - role: Research Assitant
@@ -147,14 +147,6 @@ certifications:
           credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
           credentialname: Coursera
           details: |
-            Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%. Completed in 2019, certificate issued in 2024.    
-        - name: Bayesian Statistics
-          start: 2024
-          end:2024
-          organization: Standford
-          credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
-          credentialname: Coursera
-          details: |
             Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%. Completed in 2019, certificate issued in 2024.      
         - name: Getting Started with Amazon Web Services
           start: 2020
@@ -164,48 +156,39 @@ certifications:
           credentialname: Coursera
           details: |
             Completed a course outlining how to use machine learning tools on Amazon Web Services and the workflow involved when using them. Graded at 100%.
-        - name: Machine Learning
-          start: 2024
-          end:2024
-          organization: Standford
-          credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
-          credentialname: Coursera
-          details: |
-            Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%.
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A set of significant pieces of work that I have either been lead or a primary contributor that can be publicly viewed online:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: DairyNZ Econ Tracker
+        link: "https://connect.dairynz.co.nz/content/89ba1084-42c5-4786-882b-cc91b8016d05/"
+        tagline: "An online tool that brings you economic information relevant to the New Zealand dairy sector right now. I developed the methodology behind the regional forecasts and assisted with development of the R Shiny app."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Temporal trends in home-grown forage eaten on New Zealand dairy farms
+        link: "https://doi.org/10.33584/rps.17.2021.3463"
+        tagline: "Regional analysis of the median and frontier (90%) conditional quantiles of pasture and crop eaten on New Zealand dairy farms"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Economic Farm Survey 2021/22
+        link: "https://connect.dairynz.co.nz/content/22334e05-52ea-4763-abba-80898ee3017e/"
+        tagline: "The seventeenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I redesigned the R programming code to generate LaTeX tables for the PDF document, support in-text tables with significant formatting."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Economic Farm Survey 2020/21
+        link: "https://connect.dairynz.co.nz/content/22334e05-52ea-4763-abba-80898ee3017e/"
+        tagline: "The sixteenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I conducted the data analysis and presentation."
+    
+      - title: Economic Farm Survey 2019/20
+        link: "https://bookdown.org/markbneal/EconomicSurvey1920/"
+        tagline: "The fifteenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I developed the data analysis, presentation and programmed a LaTeX output for PDF"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Economic Farm Survey 2018/19
+        link: "https://bookdown.org/markbneal/economic-survey/"
+        tagline: "The fourteenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I developed the data analysis and visual presentation elements (graphs and tables)."
+    
 oss:
-    title: OSS Contributions
+    title: Open Source Software Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
       - title: Tempo
         link: "#"
