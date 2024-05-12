@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: rrmills93@gmail.com
     phone: available on request
-    timezone: New Zealand Standard Time
+    timezone: New Zealand, London UK from July 25th.
     citizenship: New Zealand
     website: rmillzy.github.io
     linkedin: ryan-mills-18913a1a4
@@ -46,7 +46,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        As an Economist with eight years in the dairy sector, I apply advanced econometric skills to address environmental and economic challenges. My expertise in data analysis and modeling translates complex datasets into actionable insights for stakeholders ranging from farmers to government bodies. Proficient in R, Matlab, Julia, Python, Java, and C++, I develop models and data visualizations that inform strategic decisions for the dairy sector. I quickly master new programming tools, tackling both micro- and macroeconometric challenges. Experience with project management and strategic thinking to focus on improving sustainability while enhancing economic viability of the dairy industry.
+        An economist currently working in the dairy sector looking for work that will allow me to apply my strong abilities in economics, econometrics and programing to data.
+        
+        - Eight years of experience in economics working with academia and in the dairy sector. Experience includes working on microeconometric and macroeconometric forecasting, dairy farm system modelling, data science and programming.
+        - Completed a Master of Commerce (Economics) and Bachelors of Commerce and Science (Economics & Computer Science) at the University of Auckland
+        - High level of business acument with a strong strategical thinking, problem solving and thought leadership.
+        - Driven and motivated by working with data and finding meaningful insights in data for stakeholders.
+        - Excellent written and verbal communication and interpersonal skills.
+
 education:
     title: Education
     info:
@@ -54,13 +61,16 @@ education:
         university: University of Auckland
         time: 2016 - 2017
         details: |
-          Studied economics, with a focus on macro and microeconometrics and microeconomics. Awarded with first class honours.
+          Studied economics, with a focus on macro and microeconometrics and microeconomics. 
+          Awarded with first class honours.
             - Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. 
             - Dissertation on the drivers of innovative activity in developing economies.
+          
           First in class:
             - Econ 726: Microeconometrics
             - Econ 721: Econometrics
             - Econ 711: Macroeconomics I
+          
           I receieved an average grade of A across all papers.
           
       - degree: Bcom in Economics
@@ -105,11 +115,11 @@ experiences:
           Quantitative and Qualitative focused role delivering economic insights to farmers and the industry body. Key contributor to several pieces of work including:
             - The Dairy Sector Pathways (DSP) model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
             - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses.
-            - Dairy herd population simulation - A non-normal multivariate (over 140 variables) represenative simulation of New Zealands 10,600 dairy herds.
-            - Current and forecasted projections of the national dairy herd by breed and age for MPI's Foot and Mouth Disease Submission.
-            - The Economic Farm Survey (2018/19 - 2021/22) Publications.
+            - Dairy herd population simulation - A non-normal multivariate (over 140 variables) representative simulation of New Zealands 10,600 dairy herds.
+            - Current and forecasted projections of the national dairy herd by breed and age for New Zealand's Foot and Mouth Biosecurity Disease Submission.
+            - Developing the Rmarkdown/Bookdown backend for the Economic Farm Survey (2018/19 - 2021/22) Publications.
             
-          Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts and management of the National Level Solutions project.
+         Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts and management of the National Level Solutions project.
 
           Key competencies include:
            - Agile deployment of model prototypes and data analysis under time pressure.
@@ -133,7 +143,7 @@ experiences:
           Key competencies included:
            - Deployment of econometric code designed in both Matlab and Julia programming langauges.
            - Improving computational efficiency of existing code.
-           - Designing code that was highly reproducible, allowing users to adjust key parameters, data and methods without changing the core framework.
+           - Designing code that was highly reproducible, allowing end users to adjust key parameters, data and methods without changing the core framework.
            
       - role: Research Assistant
         time: July 2017 - October 2017
