@@ -55,11 +55,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Mcom in Economics (First class)
+      - degree: Mcom in Economics
         university: University of Auckland
         time: 2016 - 2017
         details: |
-          Focus on macro and microeconometrics and microeconomics. Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. Dissertation on the drivers of innovation in developing countries.
+          First class honours. Focus on macro and microeconometrics and microeconomics. Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. Dissertation on the drivers of innovation in developing countries.
           First in class:
             - Econ 726: Microeconometrics
             - Econ 721: Econometrics
