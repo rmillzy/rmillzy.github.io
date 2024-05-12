@@ -64,7 +64,7 @@ education:
             - Econ 726: Microeconometrics
             - Econ 721: Econometrics
             - Econ 711: Macroeconomics I
-         Average grade of A across all papers.
+          Average grade of A across all papers.
       - degree: Bcom in Economics
         university: University of Auckland
         time: 2012 - 2015
@@ -105,7 +105,7 @@ experiences:
             - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses
             - The Dairy Sector Pathways (DSP) model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
             - Dairy herd population simulation - A non-normal multivariate (over 140 variables) represenative simulation of New Zealands 10,600 dairy herds.
-        Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts, project management, and mentoring junior colleagues in programming and dairy economics.
+          Current focuses are on the financial competitiveness of pastoral land uses in New Zealand, generating representative distributions around the regional forecasts, project management, and mentoring junior colleagues in programming and dairy economics.
       - role: Research Assitant
         time: 2018 - 2020
         company: University of Auckland, Auckland, New Zealand
@@ -142,7 +142,7 @@ certifications:
       list:
         - name: Machine Learning
           start: 2024
-          end:2024
+          end: 2024
           organization: Standford
           credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
           credentialname: Coursera
