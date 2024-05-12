@@ -46,9 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     As an experienced Economist specializing in the dairy sector, I leverage comprehensive econometric skills to address both environmental and economic challenges through advanced modeling and data analysis. With eight years of service working with academia and in professional environments, I excel in translating and modelling complex, non-normal data into actionable insights for a diverse range of stakeholders—from farmers and industry organizations to regional councils and government bodies.
-     My technical proficiency spans R, Matlab, Julia, Python, Java, and C++, including the development of Shiny apps and robust data visualizations that drive strategic decision-making. Known for my quick adaptation to various programming languages, I bring a unique ability to master new tools swiftly and effectively. I have a strong econometrics background in both microeconometrics and macroeconometrics, but also pride myself to find solutions for challenging solutions that stray outside of standard econometrics. My work at DairyNZ has given me expereince in project management and team collaboration. 
-     I use my work to provide strategic insight to the sector and foster solutions that enhance sustainability and economic viability within the dairy industry. 
+As an Economist with eight years in the dairy sector, I apply advanced econometric skills to address environmental and economic challenges. My expertise in data analysis and modeling translates complex datasets into actionable insights for stakeholders ranging from farmers to government bodies. Proficient in R, Matlab, Julia, Python, Java, and C++, I develop models and data visualizations that inform strategic decisions for the dairy sector. I quickly master new programming tools, tackling both micro- and macroeconometric challenges. Experience with project management and strategic thinking to focus on improving sustainability while enhancing economic viability of the dairy industry.
 education:
     title: Education
     info:
@@ -240,7 +238,7 @@ skills:
         Listed are some of the programming tools and proficiencies that I have with them.
     toolset:
       - name: Econometrics
-        details: |
+        details: >
             A proficient understanding of econometrics from my university papers plus my work experience at DairyNZ and as a research assistant.
                 - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
                 - Ability to use statistical software packages including Stata and E-views.
