@@ -63,7 +63,7 @@ education:
         details: |
           Studied economics, with a focus on macro and microeconometrics and microeconomics. 
           Awarded with first-class honours.
-            - Master thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. 
+            - Master dissertation focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. 
             - Dissertation on the drivers of innovative activity in developing economies.
           
           First in class:
@@ -250,28 +250,38 @@ skills:
     toolset:
       - name: Econometrics
         details: |
-          I have a proficient understanding of econometrics from my university papers, which I have utilised in my work at DairyNZ and as a research assistant.
-            - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
-            - Ability to use statistical software packages, including Stata and E-views.
-            - Extensive knowledge of optimisation methods and an ability to program mathematical optimisations.
-            - Extensive experience applying both micro and macroeconometric methods.
+          - A proficient understanding of econometrics and statistics through my postgraduate degree, undergraduate statistics, mathematics papers and work experience at DairyNZ and academia.
+          - Extensive knowledge of short and long-term forecasting using modelling and non-modelling techniques.
+          - Experience applying microeconometrics and macroeconometrics to New Zealand's agricultural industries.
+          - The ability to run diagnostics on optimisation results and relate empirical results to a theoretical model.
+          - Ability to apply statistical models using several programming languages, including R, Julia, Matlab and Python. Experience using Stata, E-views and the Excel non-linear solver addin.
               
       - name: Economics
         details: |
-            *This is a test*
-            -Bulletpoint 1
-            -Bulletpoint 2
-      - name: Java
-
-      - name: Matlab
-
-      - name: Julia
-
-      - name: C++
-
-      - name: HTML, CSS & Javascript
-
-      
-
+           - Experience in microeconomics and macroeconomics from my university papers and applying them in my role at DairyNZ.
+           - Knowledge of common financial metrics and how to interpret them.
+           - A strong focus on the relationship between individual agents and the dynamics with the sectors and the economy. 
+           - A strong understanding of the relationships between farm systems and economics.
+           
+      - name: Information Technology
+        details: |
+          - Highly capable programmer with over 15 years plus experience in programming. 
+          - The ability to form solutions independently of the programming language itself, allowing me to apply solutions in multiple languages.
+          - Highly experienced using the R programming language at DairyNZ, with the ability to use Rmarkdown and experience building Shiny apps. 
+          - Fluent in MATLAB, Julia, Java, Javascript, CSS and HTML through my work at DairyNZ and as a research assistant, plus my university courses.
+          - Experience using Python, C++ and SQL from personal projects and university.
+          - Very capable at utilising Microsoft Office tools (Word, Excel, PowerPoint, Outlook, Visio, VS Code), and experience in document editing LaTeX at DairyNZ and in my dissertation papers.
+          - Proficient at troubleshooting problems with computers and connected peripherals from my work providing services at Warehouse Stationery.
+          - Experience mentoring colleagues in programming and tutoring in a business-organised R for Data Science course.
+          
+      - name: Personal Attributes
+        details: |
+          - Ability to converse professionally, explain technical details, and handle rejections and complaints diplomatically.
+          - Excellent writing skills developed from my work experience and university degrees.
+          - Strong ability to work in a team, collaborate and mentor.
+          - Good time management and organisational skills.
+          - Great problem-solving skills, applying a programming-centric mindset to solve problems logically.
+          - Ability to adapt to new situations, processes and tasks. I am motivated to learn new concepts and systems, expanding my current knowledge base.
+          
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
