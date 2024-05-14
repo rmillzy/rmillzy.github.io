@@ -249,7 +249,7 @@ skills:
         Listed are some of the programming tools and proficiencies that I have with them.
     toolset:
       - name: Econometrics
-        details: >
+        details: |
             I have a proficient understanding of econometrics from my university papers, plus my work experience at DairyNZ and as a research assistant.
                 - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
                 - Ability to use statistical software packages, including Stata and E-views.
