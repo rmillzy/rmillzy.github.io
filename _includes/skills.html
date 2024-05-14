@@ -18,9 +18,10 @@
         <div class="level-bar-inner" style="{{skill_level}}"></div>
       </div> <!--//level-bar-->
       {% endif %}
+      {% assign skill_detail = skill.details %}
       {% if skill.details %}
       <div class="details">
-        {{ skill.details | markdownify }}
+        {{ skill_detail | markdownify }}
       </div><!--//details-->
       {% endif %}
     </div>
