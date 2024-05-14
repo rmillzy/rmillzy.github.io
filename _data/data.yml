@@ -250,13 +250,17 @@ skills:
     toolset:
       - name: Econometrics
         details: |
-            From my university papers, I have a proficient understanding of econometrics, which I have utilised in my work at DairyNZ and as a research assistant.
-              - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
-              - Ability to use statistical software packages, including Stata and E-views.
-              - Extensive knowledge of optimisation methods and an ability to program mathematical optimisations.
-              - Extensive experience applying both micro and macroeconometric methods.
+          I have a proficient understanding of econometrics from my university papers, which I have utilised in my work at DairyNZ and as a research assistant.
+            - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
+            - Ability to use statistical software packages, including Stata and E-views.
+            - Extensive knowledge of optimisation methods and an ability to program mathematical optimisations.
+            - Extensive experience applying both micro and macroeconometric methods.
+              
       - name: Economics
-
+        details: |
+            *This is a test*
+            -Bulletpoint 1
+            -Bulletpoint 2
       - name: Java
 
       - name: Matlab
