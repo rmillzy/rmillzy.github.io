@@ -12,13 +12,13 @@
     {% for skill in skills.toolset %}
     <div class="item">
       <h3 class="level-title">{{ skill.name }}</h3>
-      {% if skills.skill_level %}
+      {% if skill.skill_level %}
       {% assign skill_level = 'width: ' | append: skill.level %}
       <div class="level-bar">
         <div class="level-bar-inner" style="{{skill_level}}"></div>
       </div> <!--//level-bar-->
       {% endif %}
-      {% if skills.details %}
+      {% if skill.details %}
       <div class="details">
         {{ skills.details | markdownify }}
       </div><!--//details-->
