@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        An economist currently working in the dairy sector looking for work that will allow me to apply my strong abilities in economics, econometrics and programing to data.
+        I am an economist currently working in the dairy sector. I am looking for work that will allow me to apply my strong abilities in economics, econometrics, and programming to data to generate value and insights for stakeholders.
         
-        - Eight years of experience in economics working with academia and in the dairy sector. Experience includes working on microeconometric and macroeconometric forecasting, dairy farm system modelling, data science and programming.
-        - Completed a Master of Commerce (Economics) and Bachelors of Commerce and Science (Economics & Computer Science) at the University of Auckland
-        - High level of business acument with a strong strategical thinking, problem solving and thought leadership.
+        - Eight years of experience in economics working with academia and the dairy sector. My experience includes working on microeconometric and macroeconometric forecasting, dairy farm system modelling, data science, and programming.
+        - Completed a Master of Commerce (Economics) and Bachelor of Commerce and Science (Economics & Computer Science) at the University of Auckland
+        - High level of business acumen with strong strategic thinking, problem-solving and thought leadership.
         - Driven and motivated by working with data and finding meaningful insights in data for stakeholders.
         - Excellent written and verbal communication and interpersonal skills.
 
@@ -62,8 +62,8 @@ education:
         time: 2016 - 2017
         details: |
           Studied economics, with a focus on macro and microeconometrics and microeconomics. 
-          Awarded with first class honours.
-            - Masters thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. 
+          Awarded with first-class honours.
+            - Master thesis focusing on the computational and statistical performance of current random coefficient logit methods for discrete demand. 
             - Dissertation on the drivers of innovative activity in developing economies.
           
           First in class:
@@ -71,13 +71,13 @@ education:
             - Econ 721: Econometrics
             - Econ 711: Macroeconomics I
           
-          I receieved an average grade of A across all papers.
+          I received an average grade of A across all papers.
           
       - degree: Bcom in Economics
         university: University of Auckland
         time: 2012 - 2015
         details: |
-          Studied economics with a focus on econometrics, macroeconomics and microecononomics, plus papers on game theory and international economics. Other electives included statistics, commercial law, accounting, business, information systems and population health.
+          Studied economics focusing on econometrics, macroeconomics and microeconomics, plus papers on game theory and international economics. Other electives included statistics, commercial law, accounting, business, information systems and population health.
           Accolades and awards include:  
             - Awarded senior scholar for highest grade point average of graduates in the undergraduate programme.
             - Added to the Information Systems Honour Roll.
@@ -86,23 +86,23 @@ education:
         university: University of Auckland
         time: 2012 - 2015
         details: |
-          Focus on software development, computational efficiency, human computer interaction and computer networking. Other electives included statistics, mathematics and philosophy.
+          Focused on software development, computational efficiency, human-computer interaction and computer networking. Other electives included statistics, mathematics and philosophy.
           Distinction awards for:
-            - Compsci 345: Human Computer Interaction, first in class
+            - Compsci 345: Human-Computer Interaction, first in class
             - Compsci 351: Fundamentals of Database Systems
             - Compsci 335: Distributed Objects and Web services
             - Stats 125: Probability and its applications
             - Compsci 111: An introduction to practical programming
-            - Compsci 101: Principals of programming
+            - Compsci 101: Principals of Programming
             
       - degree: NCEA Level 1 - 3
         university: Pukekohe High School
         time: 2007 - 2011
         details: |
-          NCEA levels 1 - 3 achieved with a merit distinction.
-          - Saxophonist in a multi-award winning Stage Band, multi-award winning Jazz Band, and award winning Concert Band.
+          NCEA levels 1 - 3 were achieved with a merit distinction.
+          - Saxophonist in a multi-award winning Stage Band, multi-award winning Jazz Band, and award-winning Concert Band.
           - Completed Duke of Edinburgh Bronze Award.
-          - Played for Pukekohe in the year 9 - 11 cricket competition and then seniors.
+          - Played for Pukekohe and then seniors in the year 9 - 11 cricket competition.
           - Competed in local squash and tennis competitions.
 
 experiences:
@@ -112,10 +112,10 @@ experiences:
         time: June 2020 - Present
         company: DairyNZ, Hamilton, New Zealand
         details: |
-          Quantitative and Qualitative focused role delivering economic insights to farmers and the industry body. Key contributor to several pieces of work including:
-            - The Dairy Sector Pathways (DSP) model - A biophysical and economic model assessing the impacts of regulation, prices and adoption of technologies and environmental mitigations.
-            - Regional forecasting for dairy farm financials for owner operating and share milking farm businesses.
-            - Dairy herd population simulation - A non-normal multivariate (over 140 variables) representative simulation of New Zealands 10,600 dairy herds.
+          Quantitative and Qualitative focused role delivering economic insights to farmers and the industry body. A key contributor to several pieces of work, including:
+            - The Dairy Sector Pathways (DSP) model. A biophysical and economic model that assesses the impacts of regulation, prices, technology adoption, and environmental mitigations.
+            - Regional forecasting for dairy farm financials for owner-operating and share milking farm businesses.
+            - Dairy herd population simulation - A non-normal multivariate (over 140 variables) representative simulation of New Zealand's 10,600 dairy herds.
             - Current and forecasted projections of the national dairy herd by breed and age for New Zealand's Foot and Mouth Biosecurity Disease Submission.
             - Developing the Rmarkdown/Bookdown backend for the Economic Farm Survey (2018/19 - 2021/22) Publications.
             
@@ -123,36 +123,37 @@ experiences:
 
           Key competencies include:
            - Agile deployment of model prototypes and data analysis under time pressure.
-           - Creation of sosphicated modelling tools for use in DairyNZ's policy analysis and scientific research.
-           - Highly capable programmer, mentoring several employees in the use of R programming
+           - Creating complex modelling tools for DairyNZ's policy analysis and scientific research.
+           - Generating and communicating complex topics to non-technical audiences.
+           - Highly capable programmer, mentoring several employees in the use of R programming.
           
       - role: Research Assitant
         time: June 2018 - May 2020
         company: University of Auckland, Auckland, New Zealand
         details: |
-          Designed statistical code to run empricial analyses for several papers conducted by Dr. Greenaway-McGrevy, including:
+          Designed statistical code to run empirical analyses for several papers conducted by Dr. Greenaway-McGrevy, including:
             - Multi-step forecast averaging methods
             - Asymptotic efficiency in forecast averaging methods
             - Nowcasting averaging methods
-            - Mortaility and economic activity
+            - Mortality and economic activity
             - Time-varying hedonic house pricing
             
-          Role included both designing statistical code from scratch and improving the computational efficiency of existing code. In one instance, code execution time was reduced from a week to within 3 hours. 
+          My role included designing statistical code from scratch and improving the computational efficiency of existing code. In one instance, code execution time was reduced from a week to within 3 hours. 
           Built code that could be easily modified without the professor having to modify the core framework of the code. Conducted literature reviews on currency market contagion and the relationship between mortality and economic activity. 
 
           Key competencies included:
-           - Deployment of econometric code designed in both Matlab and Julia programming langauges.
+           - Deployment of econometric code designed in both Matlab and Julia programming languages.
            - Improving computational efficiency of existing code.
-           - Designing code that was highly reproducible, allowing end users to adjust key parameters, data and methods without changing the core framework.
+           - Designing highly reproducible code that allows end users to adjust key parameters, data, and methods without changing the core framework.
            
       - role: Research Assistant
         time: July 2017 - October 2017
         company: Auckland University of Technology
         details: |
-          Programmed a discrete demand model on the Soda beverage industry for the USA to analyse the imapct of a sugar tax. The model used the latest innovations in the field such as the use of first order optimal instruments. 
+          Programmed a discrete demand model for the soda beverage industry in the USA to analyse the impact of a sugar tax. The model used the latest innovations in the field, such as the use of first-order optimal instruments. 
             - Derived a hessian matrix that computationally out-performed the next fastest in the field by a factor of 5 (~ 200 seconds vs 1100 seconds per evaluation)
             - Used optimality conditions to determine convergence to a local minima and multi-start searches build evidence of a global minima
-            - Used several derivative and non-derivative methods to further test robustness of the solution
+            - Used several derivative and non-derivative methods to test the robustness of the solution further
 
           Key competencies included:
             - Deploying a discrete demand model using the Berry, Levinsohn and Pakes (BLP) methodology, applying new techniques to improve statistical and computational performance
@@ -163,11 +164,11 @@ experiences:
         time: March 2010 - May 2020
         company: Warehouse Stationery, Pukekohe
         details: |
-          Worked in technology sales, furniture sales and copy centre services. Flexibly moving between them depending on the companies needs. 
-          - Provided technology support and trouble-shooting
+          Worked in technology sales, furniture sales and copy centre services. I Flexibly moved between them depending on the company's needs on a given day. 
+          - Provided technology support and troubleshooting
           - Offered digital document design and editing
           - Capable of providing furniture building services to customers. 
-          - From 2015 - 2020, I completed the store's banking, creating floats and reconciling the previous days sales. Created an Excel Spreadsheet to automate over 75% of the process, which is still used in the store. 
+          - From 2015 - 2020, I completed the store's banking, creating floats and reconciling the previous day's sales. Created an Excel Spreadsheet to automate over 75% of the process, which is still used in the store. 
 
           Key competencies included:
           - Building and maintaining relationships with a dedicated group of customers who would specifically see me for their technology needs.
@@ -183,7 +184,7 @@ certifications:
           credentialurl: https://coursera.org/verify/F2XF3MGVH3ZU
           credentialname: Coursera
           details: |
-            Completed Standford Online's course in machine learning, introducing the use of gradient descent, classification and neural networks. Graded at 99.60%. Completed in 2019, certificate issued in 2024.      
+            I completed Standford Online's course in machine learning, which introduced the use of gradient descent, classification, and neural networks. Completed with a grade of 99.60%. Completed the course in 2019, certificate issued in 2024.      
         - name: Getting Started with Amazon Web Services
           start: 2020
           end: 2021
@@ -191,23 +192,23 @@ certifications:
           credentialurl: https://coursera.org/verify/7ANMKJTU8GWC
           credentialname: Coursera
           details: |
-            Completed a course outlining how to use machine learning tools on Amazon Web Services and the workflow involved when using them. Graded at 100%.
+            I completed a course outlining how to use machine learning tools on Amazon Web Services and the workflow involved when using them. Graded at 100%.
 projects:
     title: Projects & Publications
     intro: >
-      A set of significant pieces of work that I have either been lead or a primary contributor that can be publicly viewed online:
+      A set of significant pieces of work that I have either led or a primary contributor to that can be publicly viewed online:
     assignments:
       - title: DairyNZ Econ Tracker
         link: "https://connect.dairynz.co.nz/content/89ba1084-42c5-4786-882b-cc91b8016d05/"
-        tagline: "An online tool that brings you economic information relevant to the New Zealand dairy sector right now. I developed the methodology behind the regional forecasts and assisted with development of the R Shiny app."
+        tagline: "An online tool that brings you economic information relevant to the New Zealand dairy sector. I developed the methodology behind the regional forecasts and assisted with the development of the R Shiny app."
 
       - title: Temporal trends in home-grown forage eaten on New Zealand dairy farms
         link: "https://doi.org/10.33584/rps.17.2021.3463"
-        tagline: "Regional analysis of the median and frontier (90%) conditional quantiles of pasture and crop eaten on New Zealand dairy farms"
+        tagline: "Regional analysis of the median and frontier (90%) conditional quantiles of pasture and crop eaten on New Zealand dairy farms."
 
       - title: Inside Dairy, December 2022, *Hold onto your profit*
         link: "https://www.dairynz.co.nz/media/2sliehd1/inside-dairy-dec-jan-2021-webv2.pdf"
-        tagline: "An article discussing the interaction between milk price and cost reactivity"
+        tagline: "An article discussing the interaction between milk price and cost reactivity."
         
       - title: Economic Farm Survey 2021/22
         link: "https://connect.dairynz.co.nz/content/22334e05-52ea-4763-abba-80898ee3017e/"
@@ -219,7 +220,7 @@ projects:
     
       - title: Economic Farm Survey 2019/20
         link: "https://bookdown.org/markbneal/EconomicSurvey1920/"
-        tagline: "The fifteenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I developed the data analysis, presentation and programmed a LaTeX output for PDF"
+        tagline: "The fifteenth annual survey of New Zealand dairy farmers using dairy farm business data from DairyBase®. I developed the data analysis, presentation and programmed a LaTeX output for PDF."
 
       - title: Economic Farm Survey 2018/19
         link: "https://bookdown.org/markbneal/economic-survey/"
@@ -228,11 +229,11 @@ projects:
 oss:
     title: Open Source Software Contributions
     intro: >
-      Listed are some open source projects that I have available on my GitHub account. Most of the work I complete has data privacy policies that make it unavailable for public release. I will endeavour to make my work publicly available when possible.
+      Listed are some open-source projects that I have available on my GitHub account. Most of the work I complete has data privacy policies that make it unavailable for public release. I will endeavour to make my work publicly available when possible.
     contributions:
       - title: SNZ_Land_use_replica_example
         link: "https://github.com/rmillzy/SNZ_Land_use_replica_example"
-        tagline: "A replication of the Land Use Shiny App on the Statistics New Zealand website. Built as a protoype/tutorial for a colleague building the Econ Tracker shiny app."
+        tagline: "A replication of the Land Use Shiny App on the Statistics New Zealand website. Built as a prototype/tutorial for a colleague building the Econ Tracker shiny app."
 
       - title: Workshop lecture notes on Vectors
         link: "https://millzyr.github.io/Workshop_9_notes.html"
@@ -240,7 +241,7 @@ oss:
 
       - title: GitHub and Data Retrieval Example
         link: "https://github.com/millzyr/Guided_Project_1"
-        tagline: "An unfinished example of a guided project in R. Covers setting up GitHub and using HTML/CSS tags to automatically retrieve data. Two Youtube videos were relased along side this to guide users for DairyNZ"             
+        tagline: "An unfinished example of a guided project in R. Covers setting up GitHub and using HTML/CSS tags to retrieve data automatically. Two unlisted YouTube videos were released alongside this to guide employees at DairyNZ"             
 
 skills:
     title: Skills &amp; Proficiency
@@ -249,10 +250,10 @@ skills:
     toolset:
       - name: Econometrics
         details: >
-            A proficient understanding of econometrics from my university papers plus my work experience at DairyNZ and as a research assistant.
+            I have a proficient understanding of econometrics from my university papers, plus my work experience at DairyNZ and as a research assistant.
                 - Ability to use multiple statistical programming languages, including R, Python, Julia and Matlab.
-                - Ability to use statistical software packages including Stata and E-views.
-                - Extensive knowledge of optimisation methods and an ability program mathematical optimisations.
+                - Ability to use statistical software packages, including Stata and E-views.
+                - Extensive knowledge of optimisation methods and an ability to program mathematical optimisations.
                 - Extensive experience applying both micro and macroeconometric methods.
       - name: Economics
 
